@@ -1,10 +1,10 @@
 ### Hey there 👋 I'm Kunal 
 
-I’m currently pursuing my Bachelors in Computer Science & Engineering. 
+I’m currently pursuing my Bachelors in Computer Science & Engineering.
+
 I’m passionate about Android Application Developement and I enjoy learning new things.
 
- 📫 reach me
- meshramkunal370@gmail.com 
+ 📫 reach me : meshramkunal370@gmail.com 
  
 - ⚡ Fun fact: I'm kinda like playing Video Games 
 <!--
