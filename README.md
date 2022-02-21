@@ -1,6 +1,6 @@
 ### Hey there 👋 I'm Kunal 
 
-Currently pursuing my Bachelors in Computer Science & Engineering.
+Currently pursuing my B.Tech in Computer Science & Engineering.
 
 Passionate about Android learning new things and coding.
 
