@@ -1,12 +1,12 @@
 ### Hey there 👋 I'm Kunal 
 
-I’m currently pursuing my Bachelors in Computer Science & Engineering.
+Currently pursuing my Bachelors in Computer Science & Engineering.
 
-I’m passionate about Android Application Developement and I enjoy learning new things.
+Passionate about Android learning new things and coding.
 
  📫 reach me : meshramkunal370@gmail.com 
  
- ⚡ Fun fact: I'm kinda like playing Video Games 
+ ⚡ Fun fact: kinda like playing Video Games 
 <!--
 **kunal370/kunal370** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
