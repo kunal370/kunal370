@@ -2,7 +2,7 @@
 
 Currently pursuing my B.Tech in Computer Science & Engineering.
 
-Passionate about Android learning new things and coding.
+Passionate about Android, learning new things and coding.
 
  📫 reach me : meshramkunal370@gmail.com 
  
