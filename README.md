@@ -6,7 +6,7 @@ Passionate about Android learning new things and coding.
 
  📫 reach me : meshramkunal370@gmail.com 
  
- ⚡ Fun fact: kinda like playing Video Games 
+ ⚡ Fun fact: I like Watching Anime 
 <!--
 **kunal370/kunal370** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
