@@ -2,11 +2,11 @@
 
 Currently pursuing my B.Tech in Computer Science & Engineering.
 
-Passionate about Android, learning new things and coding.
+Passionate about learning and coding.
 
  📫 reach me : meshramkunal370@gmail.com 
  
- ⚡ Fun fact: I like Watching Anime 
+ ⚡ Fun fact: I Watch Anime 
 <!--
 **kunal370/kunal370** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
