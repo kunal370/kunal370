@@ -4,7 +4,9 @@ Currently pursuing my B.Tech in Computer Science & Engineering.
 
 Passionate about learning and coding.
 
- 📫 reach me : meshramkunal370@gmail.com 
+ 📫 reach me 
+  linkedin : https://www.linkedin.com/in/kunal-meshram-b472b71a3/ 
+  Twitter  : https://twitter.com/kunalMe58304347
  
  ⚡ Fun fact: I Watch Anime 
 <!--
