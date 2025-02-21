@@ -1,15 +1,10 @@
-### Hey there 👋 I'm Kunal 
-
-Currently pursuing my B.Tech in Computer Science & Engineering.
-
+### Hey there 👋 I'm Kunal Meshram
+Software Engineer
 Passionate about learning and coding.
-
+🌱 learning new things
 📫 reach me 
-
-
-linkedin : https://www.linkedin.com/in/kunal-meshram-b472b71a3/ 
-
-
+mail id: meshramkunal370@gmail.com
+Linkedin : https://www.linkedin.com/in/kunal-meshram-b472b71a3/ 
 Twitter  : https://twitter.com/kunalMe58304347
  
 	⚡ Fun fact: I Watch Anime 
@@ -18,7 +13,7 @@ Twitter  : https://twitter.com/kunalMe58304347
 
 Here are some ideas to get you started:
 
-- 🔭 I’m intrested in Android Application Developement
+- 🔭 I’m interested in Android Application development
 - 🌱 I’m currently pursuing Engineering | B.Tech.
 - 📫 How to reach me: meshramkunal370@gmail.com 
 - ⚡ Fun fact: I'm kinda funny 
