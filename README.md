@@ -1,8 +1,13 @@
 ### Hey there 👋 I'm Kunal Meshram
+
 Software Engineer
+
 Passionate about learning and coding.
+
 🌱 learning new things
+
 📫 reach me 
+
 mail id: meshramkunal370@gmail.com
 
 Linkedin : https://www.linkedin.com/in/kunal-meshram-b472b71a3/ 
