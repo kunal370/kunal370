@@ -1,12 +1,12 @@
 ### Hey there 👋 I'm Kunal Meshram
 
-Software Engineer
+Diligent, aspirational, and eager to learn.
 
 Passionate about learning and coding.
 
 🌱 learning new things
 
-📫 reach me 
+📫 Reach me 
 
 mail id: meshramkunal370@gmail.com
 
