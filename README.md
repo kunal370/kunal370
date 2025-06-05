@@ -33,11 +33,7 @@ I'm an AI developer focused on building intelligent tools that help developers c
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kunal370&show_icons=true&theme=default" width="47%" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal370&theme=default" width="47%" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal370&layout=compact&theme=default" width="47%" />
 </p>
 
