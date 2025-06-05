@@ -11,23 +11,28 @@
 
 ### 🧠 About Me
 
-I'm an AI developer focused on building intelligent tools that help developers code better and faster. My work combines code understanding, language modeling, and local AI deployment to create efficient, offline-first solutions.
+I'm an AI developer focused on building intelligent, efficient, and privacy-conscious tools for developers. My work blends traditional machine learning with modern generative AI approaches to enhance productivity, automate workflows, and deliver smart local-first solutions.
 
-- 🔍 Focus: AI Code Assistants, Prompt Engineering, Recommender Systems  
-- ⚙️ Stack: Python, ML, Streamlit, LangChain, Ollama, TF-IDF, Embeddings, RAG  
-- 🎯 Goal: Deliver practical, privacy-friendly AI tools that improve development workflows
+My key strengths lie in prompt engineering, code understanding, embedding-based search, and building recommendation systems — all tied together with clean, practical design.
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
-| Project | Description |
-|--------|-------------|
-| [**whitecode.ai**](https://github.com/kunal370/whitecode.ai) | AI-powered offline bug fixing and code review system |
-| [**sana.ai**](https://github.com/kunal370/sana.ai) | Local AI tool using Ollama CLI for Python code analysis |
-| [**PromptMate**](https://github.com/kunal370/PromptMate) | Lightweight prompt engineering assistant using TF-IDF & LangChain |
-| [**Video Game Recommendation System**](https://github.com/kunal370/Video_Game_Recommendation-System) | ML-based game recommendation engine using user behavior |
-| [**whitecode2.0**](https://github.com/kunal370/whitecode2.0) | Revamped version of whitecode with improved AI workflows |
+- **whitecode.ai**: An AI-powered offline bug fixer and code reviewer designed to work without the cloud, ensuring full local inference with smart analysis.
+- **sana.ai**: A fast, secure tool built on Streamlit using Ollama for local code reviews — built for developers who need AI support offline.
+- **PromptMate**: A lightweight GenAI utility for exploring and testing prompts with TF-IDF and LangChain integration, ideal for learning and deploying prompt logic.
+- **Video Game Recommendation System**: A machine learning-based recommender system leveraging genre and user data to predict game preferences.
+- **whitecode2.0**: A revamped version of whitecode with optimized workflows, better model interaction, and streamlined local AI performance.
+
+---
+
+### 🧰 Skills & Technologies
+
+- **Languages**: Python
+- **Core Skills**: Machine Learning, Generative AI, Prompt Engineering, NLP
+- **Tech Stack**: Streamlit, LangChain, TF-IDF, Embeddings, RAG, Ollama CLI
+- **Focus Areas**: Developer Tools, Code Intelligence, Recommender Systems, Local AI Apps
 
 ---
 
@@ -42,19 +47,10 @@ I'm an AI developer focused on building intelligent tools that help developers c
 
 ---
 
-### 🧰 Tools & Technologies
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-4B8BBE?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-8E44AD?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-222222?style=for-the-badge)
-
----
-
 ### 📬 Let's Connect
 
-If you're working on something exciting in ML or GenAI and need collaboration or feedback — feel free to reach out!
+I'm open to collaborating on ML/GenAI projects or helping improve developer workflows through AI.  
+Feel free to reach out:
 
 📧 **kunalmeshram370@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/kunal-meshram-b472b71a3/)
