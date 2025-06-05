@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **ML & Generative AI Projects**
 - 🌱 Learning advanced concepts in **LangChain, RAG, and Vector DBs**
 - 💬 Ask me about **Python, SQL, NLP, Streamlit, Gemini API, Ollama**
-- 🚀 Projects include **bug-fix agents, AI dashboards, and local AI assistants**
+- 🚀 Projects include **bug-fix agents, Hybrid AI assistants, and local AI assistants**
 - 📫 Reach me at: **kunalmeshram370@gmail.com**
 
 ---
@@ -16,7 +16,7 @@ Here are a few cool things I’ve built:
 
 - 🛠️ [**sana.ai**](https://github.com/kunal370/sana.ai) — Local AI code reviewer using Streamlit + Ollama + Mistral
 - 🧠 [**GenAI with Gemini API**](https://github.com/kunal370/gemini-api) — Gemini integration with NLP, RAG, LangChain
-- 📊 [**ML Dashboards**](https://github.com/kunal370/whitecode2.0) — End-to-end data apps powered by Streamlit
+- 📊 [**Hybrid AI assistant**](https://github.com/kunal370/whitecode2.0) — End-to-end data apps powered by Streamlit
 
 ---
 
@@ -30,7 +30,7 @@ Here are a few cool things I’ve built:
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat)
 ![Ollama](https://img.shields.io/badge/-Ollama-333333?style=flat)
 ![Gemini API](https://img.shields.io/badge/-GeminiAPI-333333?style=flat)
-![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+![pycharm]
 
 **Currently Exploring**  
 - 🧠 RAG (Retrieval Augmented Generation)  
