@@ -1,56 +1,62 @@
-<h1 align="center">Hi 👋, I'm Kunal Meshram</h1>
-<h3 align="center">🚀 I build intelligent and useful AI apps | Python • ML • GenAI</h3>
+<h1 align="center">Hi, I'm Kunal Meshram</h1>
+<h3 align="center">AI Developer | Python • Machine Learning • Generative AI</h3>
 
----
-
-🔭 I’m currently working on:
-- 🧠 **whitecode.ai**: AI-powered code review and bug fixer
-- 🛠️ **sana.ai**: Local offline AI tool using Ollama for Python bug fixes
-- 🎮 **Video Game Recommendation System**: Built using ML-based user rating and genre filtering
-- 🤖 **PromptMate**: AI Prompt Engineer's sidekick with TF-IDF & LangChain
-- 🔍 **whitecode2.0**: Streamlined upgrade to our offline AI coding assistant
-
----
-
-💡 What I love working on:
-- Building smart, local-first AI tools  
-- NLP, embeddings, TF-IDF, LangChain, RAG  
-- Simplifying GenAI-powered workflows  
-- Practical solutions, clean UI, and effective ML
-
----
-
-📫 Reach out:
-- 📧 **kunalmeshram370@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/kunal-meshram-b472b71a3/)
-- 🌐 [My GitHub Projects](https://github.com/kunal370)
-
----
-
-📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunal370&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal370&theme=tokyonight" width="48%" />
+  <a href="mailto:kunalmeshram370@gmail.com">📧 Email</a> •
+  <a href="https://github.com/kunal370">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/kunal-meshram-b472b71a3/">🔗 LinkedIn</a>
 </p>
 
 ---
 
-🧰 Toolbox  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![Machine Learning](https://img.shields.io/badge/-ML-blue?style=flat&logo=OpenAI)  
-![Generative AI](https://img.shields.io/badge/-GenAI-ff69b4?style=flat&logo=OpenAI)  
-![LangChain](https://img.shields.io/badge/-LangChain-006400?style=flat)  
-![TF-IDF](https://img.shields.io/badge/-TF--IDF-yellow?style=flat)  
-![RAG](https://img.shields.io/badge/-RAG-red?style=flat)  
-![Ollama](https://img.shields.io/badge/-Ollama-111?style=flat)
+### 🧠 About Me
+
+I'm a developer passionate about building intelligent systems using Python, Machine Learning, and Generative AI. I focus on solving real-world problems by combining traditional ML techniques with modern GenAI tools like LangChain, RAG, TF-IDF, and embeddings.
+
+- 🔍 Focus: Code Intelligence, NLP, Recommender Systems, Offline AI Tools  
+- ⚙️ Stack: Python, ML, Streamlit, LangChain, Ollama, TF-IDF, Embeddings  
+- 🎯 Goal: Deliver fast, functional, and local-first AI-powered applications
 
 ---
 
-🧠 Currently Learning:
-- RAG pipelines
-- Vector search optimization  
-- Prompt engineering for real use-cases
+### 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [**whitecode.ai**](https://github.com/kunal370/whitecode.ai) | AI-powered offline bug fixing and code review system |
+| [**sana.ai**](https://github.com/kunal370/sana.ai) | Local AI tool using Ollama CLI for Python code analysis |
+| [**PromptMate**](https://github.com/kunal370/PromptMate) | Lightweight prompt engineering assistant using TF-IDF & LangChain |
+| [**Video Game Recommendation System**](https://github.com/kunal370/Video_Game_Recommendation-System) | ML-based game recommendation engine using user behavior |
+| [**whitecode2.0**](https://github.com/kunal370/whitecode2.0) | Revamped version of whitecode with improved AI workflows |
 
 ---
 
-⚡ Fun fact: My AI agents fix bugs faster than I do 😅  
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal370&show_icons=true&theme=default" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal370&theme=default" width="47%" />
+</p>
+
+---
+
+### 🧰 Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00599C?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-4B8BBE?style=for-the-badge)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-F7941D?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-8E44AD?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-222222?style=for-the-badge)
+
+---
+
+### 📬 Let's Connect
+
+If you're working on something exciting in ML or GenAI and need collaboration or feedback — feel free to reach out!
+
+📧 **kunalmeshram370@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/kunal-meshram-b472b71a3/)
+
+---
