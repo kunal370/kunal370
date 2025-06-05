@@ -1,103 +1,56 @@
-<h1 align="center">Hi there, I'm Kunal Meshram 👋</h1>
+<h1 align="center">Hi 👋, I'm Kunal Meshram</h1>
+<h3 align="center">🚀 I build intelligent and useful AI apps | Python • ML • GenAI</h3>
+
+---
+
+🔭 I’m currently working on:
+- 🧠 **whitecode.ai**: AI-powered code review and bug fixer
+- 🛠️ **sana.ai**: Local offline AI tool using Ollama for Python bug fixes
+- 🎮 **Video Game Recommendation System**: Built using ML-based user rating and genre filtering
+- 🤖 **PromptMate**: AI Prompt Engineer's sidekick with TF-IDF & LangChain
+- 🔍 **whitecode2.0**: Streamlined upgrade to our offline AI coding assistant
+
+---
+
+💡 What I love working on:
+- Building smart, local-first AI tools  
+- NLP, embeddings, TF-IDF, LangChain, RAG  
+- Simplifying GenAI-powered workflows  
+- Practical solutions, clean UI, and effective ML
+
+---
+
+📫 Reach out:
+- 📧 **kunalmeshram370@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/kunal-meshram-b472b71a3/)
+- 🌐 [My GitHub Projects](https://github.com/kunal370)
+
+---
+
+📈 GitHub Stats  
 <p align="center">
-  <em>Software Engineer | Python & ML Enthusiast | Exploring Generative AI</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal370&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal370&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🧠 Passionate about **AI**, **Machine Learning**, and **Generative AI**
-- ⚙️ Tools I work with: `Python`, `SQL`, `Streamlit`, `Langchain`, `Gemini API`, `Ollama`, `RAG`, `NLP`, `Embeddings`
-- 🚀 Currently building: AI-powered tools using **Gemini** + **LangChain**
-- 💡 Always learning something new – recently exploring **Vector Databases** & **LLM Agents**
+🧰 Toolbox  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![Machine Learning](https://img.shields.io/badge/-ML-blue?style=flat&logo=OpenAI)  
+![Generative AI](https://img.shields.io/badge/-GenAI-ff69b4?style=flat&logo=OpenAI)  
+![LangChain](https://img.shields.io/badge/-LangChain-006400?style=flat)  
+![TF-IDF](https://img.shields.io/badge/-TF--IDF-yellow?style=flat)  
+![RAG](https://img.shields.io/badge/-RAG-red?style=flat)  
+![Ollama](https://img.shields.io/badge/-Ollama-111?style=flat)
 
 ---
 
-### 📌 Projects Showcase
-Here are a few projects I'm proud of:
-- **[sana.ai](https://github.com/kunal370/sana.ai)** – Local AI-powered code review tool built with Streamlit + Mistral via Ollama.
-- **Gemini Code Assistant** – Python + Gemini API-powered chatbot for intelligent code suggestions.
-- **LangChain RAG Demo** – Proof-of-concept app using Retrieval-Augmented Generation and local PDFs.
-
-👉 *Check out more in my pinned repositories!*
+🧠 Currently Learning:
+- RAG pipelines
+- Vector search optimization  
+- Prompt engineering for real use-cases
 
 ---
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=LangChain&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### 📬 Let's Connect
-- 📧 Mail me: [kunalmeshram370@gmail.com](mailto:kunalmeshram370@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/kunal-meshram-b472b71a3](https://www.linkedin.com/in/kunal-meshram-b472b71a3/)
-- 🧠 GitHub: [github.com/kunal370](https://github.com/kunal370)
-
----
-
-<p align="center">Thanks for stopping by! ⭐️</p>
-
-
-
-# Hi there, I'm Kunal Meshram 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-meshram-b472b71a3/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalmeshram370@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal370)
-
-## 🚀 About Me
-
-I'm a passionate developer with expertise in building robust and scalable applications. My journey in tech is fueled by curiosity and a constant desire to learn new technologies and solve complex problems.
-
-- 🔭 I'm currently working on improving my skills in full-stack development
-- 🌱 Learning about cloud technologies and system design
-- 💡 Interested in open-source contributions
-- 💬 Ask me about web development, algorithms, or tech in general
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
-
-## 🛠 Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 📈 GitHub Stats
-
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunal370&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal370&layout=compact&theme=radical)](https://github.com/kunal370/github-readme-stats)
-
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kunal370&theme=radical)](https://git.io/streak-stats)
-
-## 🤝 Let's Connect
-
-I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out!
-
-📫 How to reach me: 
-- Email: [kunalmeshram370@gmail.com](mailto:kunalmeshram370@gmail.com)
-- LinkedIn: [Kunal Meshram](https://www.linkedin.com/in/kunal-meshram-b472b71a3/)
+⚡ Fun fact: My AI agents fix bugs faster than I do 😅  
