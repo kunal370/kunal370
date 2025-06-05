@@ -1,55 +1,57 @@
-<h1 align="center">Hi 👋, I'm Kunal Meshram</h1>
-<h3 align="center">Software Engineer | Python & ML Enthusiast | Exploring GenAI</h3>
+# Hi there, I'm Kunal Meshram 👋
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-meshram-b472b71a3/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalmeshram370@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal370)
 
-- 🔭 I’m currently working on **ML & Generative AI Projects**
-- 🌱 Learning advanced concepts in **LangChain, RAG, and Vector DBs**
-- 💬 Ask me about **Python, SQL, NLP, Streamlit, Gemini API, Ollama**
-- 🚀 Projects include **bug-fix agents, Hybrid AI assistants, and local AI assistants**
-- 📫 Reach me at: **kunalmeshram370@gmail.com**
+## 🚀 About Me
 
----
+I'm a passionate developer with expertise in building robust and scalable applications. My journey in tech is fueled by curiosity and a constant desire to learn new technologies and solve complex problems.
 
-### 🚀 Projects Showcase
-Here are a few cool things I’ve built:
+- 🔭 I'm currently working on improving my skills in full-stack development
+- 🌱 Learning about cloud technologies and system design
+- 💡 Interested in open-source contributions
+- 💬 Ask me about web development, algorithms, or tech in general
+- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
-- 🛠️ [**sana.ai**](https://github.com/kunal370/sana.ai) — Local AI code reviewer using Streamlit + Ollama + Mistral
-- 🧠 [**GenAI with Gemini API**](https://github.com/kunal370/gemini-api) — Gemini integration with NLP, RAG, LangChain
-- 📊 [**Hybrid AI assistant**](https://github.com/kunal370/whitecode2.0) — End-to-end data apps powered by Streamlit
+## 🛠 Tech Stack
 
----
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🧰 Tech Stack
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Tools**  
-![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
-![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat)
-![Ollama](https://img.shields.io/badge/-Ollama-333333?style=flat)
-![Gemini API](https://img.shields.io/badge/-GeminiAPI-333333?style=flat)
-![pycharm]
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-**Currently Exploring**  
-- 🧠 RAG (Retrieval Augmented Generation)  
-- 📚 Vector DBs like ChromaDB  
-- 🤖 Local LLMs with Ollama  
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunal370&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal370&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal370&layout=compact&theme=radical)](https://github.com/kunal370/github-readme-stats)
 
----
+## 🔥 Streak Stats
 
-### 🌐 Connect With Me
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kunal370&theme=radical)](https://git.io/streak-stats)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunalmeshram/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kunalmeshram370@gmail.com)
+## 🤝 Let's Connect
 
----
+I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out!
+
+📫 How to reach me: 
+- Email: [kunalmeshram370@gmail.com](mailto:kunalmeshram370@gmail.com)
+- LinkedIn: [Kunal Meshram](https://www.linkedin.com/in/kunal-meshram-b472b71a3/)
