@@ -2,7 +2,6 @@
 <h3 align="center">AI Developer | Python • Machine Learning • Generative AI</h3>
 
 <p align="center">
-  <a href="mailto:kunalmeshram370@gmail.com">📧 Email</a> •
   <a href="https://github.com/kunal370">💻 GitHub</a> •
   <a href="https://www.linkedin.com/in/kunal-meshram-b472b71a3/">🔗 LinkedIn</a>
 </p>
