@@ -3,70 +3,61 @@
 
 <p align="center">
   <a href="https://github.com/kunal370">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/kunal-meshram-b472b71a3/">🔗 LinkedIn</a> •
-  <a href="mailto:kunalmeshram370@gmail.com">📧 Email</a>
+  <a href="https://www.linkedin.com/in/kunal-meshram-b472b71a3/">🔗 LinkedIn</a>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I build intelligent developer tools combining code understanding and language modeling. Passionate about creating efficient, offline-first AI solutions.
+I'm an AI developer focused on building intelligent tools that help developers code better and faster. My work combines code understanding, language modeling, and local AI deployment to create efficient, offline-first solutions.
 
-- 🔍 **Focus:** AI Code Assistants • Prompt Engineering • Recommender Systems  
-- ⚙️ **Stack:** Python, LangChain, Ollama, RAG, TF-IDF, Sentence Transformers  
-- 🎯 **Goal:** Deliver privacy-friendly AI that enhances development workflows
+- 🔍 Focus: AI Code Assistants, Prompt Engineering, Recommender Systems  
+- ⚙️ Stack: Python, ML, Streamlit, LangChain, Ollama, TF-IDF, Embeddings, RAG  
+- 🎯 Goal: Deliver practical, privacy-friendly AI tools that improve development workflows
 
 ---
 
 ### 🚀 Featured Projects
 
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**sana.ai**](https://github.com/kunal370/sana.ai) | Local AI code analysis using Ollama | Python, Ollama, ChromaDB |
-| [**PromptMate**](https://github.com/kunal370/PromptMate) | Lightweight prompt engineering assistant | Python, Streamlit |
-| [**Video Game RecSys**](https://github.com/kunal370/Video_Game_Recommendation-System) | ML-based game recommendations | Python, Pandas, Sklearn |
-| [**whitecode2.0**](https://github.com/kunal370/whitecode2.0) | AI coding assistant | Gemini, Sentence Transformers |
-
-</div>
+| Project | Description |
+|--------|-------------|
+| [**sana.ai**](https://github.com/kunal370/sana.ai) | Local AI tool using Ollama for Python code analysis, bug fixing, and code review system |
+| [**PromptMate**](https://github.com/kunal370/PromptMate) | Local, Lightweight prompt engineering assistant using Ollama |
+| [**Video Game Recommendation System**](https://github.com/kunal370/Video_Game_Recommendation-System) | ML-based game recommendation engine using user behavior |
+| [**whitecode2.0**](https://github.com/kunal370/whitecode2.0) | coding assistant powered by ChromaDB, Sentence Transformers, and Gemini |
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kunal370&show_icons=true&theme=default&hide_border=true&layout=compact" width="400" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal370&theme=default&hide_border=true" width="400" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal370&layout=compact&theme=default&hide_border=true" width="400" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal370&show_icons=true&theme=default" width="47%" />
+  </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal370&theme=default" width="47%" />
+  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal370&layout=compact&theme=default" width="47%" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tools & Technologies
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-00ADD8?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-4B8BBE?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-8E44AD?style=for-the-badge)
-![ML](https://img.shields.io/badge/Machine_Learning-013243?style=for-the-badge)
-
-</div>
+![Ollama](https://img.shields.io/badge/Ollama-222222?style=for-the-badge)
 
 ---
 
-### 📫 Contact
+### 📬 Let's Connect
 
-<div align="center">
+If you're working on something exciting in ML or GenAI and need collaboration or feedback — feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-meshram-b472b71a3/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalmeshram370@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal370)
+📧 **kunalmeshram370@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/kunal-meshram-b472b71a3/)
 
-</div>
+---
