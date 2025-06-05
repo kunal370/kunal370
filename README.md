@@ -23,11 +23,10 @@ I'm an AI developer focused on building intelligent tools that help developers c
 
 | Project | Description |
 |--------|-------------|
-| [**whitecode.ai**](https://github.com/kunal370/whitecode.ai) | AI-powered offline bug fixing and code review system |
-| [**sana.ai**](https://github.com/kunal370/sana.ai) | Local AI tool using Ollama CLI for Python code analysis |
-| [**PromptMate**](https://github.com/kunal370/PromptMate) | Lightweight prompt engineering assistant using TF-IDF & LangChain |
+| [**sana.ai**](https://github.com/kunal370/sana.ai) | Local AI tool using Ollama for Python code analysis, bug fixing, and code review system |
+| [**PromptMate**](https://github.com/kunal370/PromptMate) | Local, Lightweight prompt engineering assistant using Ollama |
 | [**Video Game Recommendation System**](https://github.com/kunal370/Video_Game_Recommendation-System) | ML-based game recommendation engine using user behavior |
-| [**whitecode2.0**](https://github.com/kunal370/whitecode2.0) | Revamped version of whitecode with improved AI workflows |
+| [**whitecode2.0**](https://github.com/kunal370/whitecode2.0) | coding assistant powered by ChromaDB, Sentence Transformers, and Gemini |
 
 ---
 
