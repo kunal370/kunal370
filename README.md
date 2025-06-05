@@ -9,12 +9,12 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **ML + Generative AI Projects**  
-- 🌱 I’m learning **LangChain, Vector Databases (like ChromaDB, FAISS), RAG Pipelines**  
-- 👨‍💻 All of my projects are available at [github.com/kunal370](https://github.com/kunal370)  
-- 💬 Ask me about **Python, SQL, Streamlit, Gemini API, LLMs, and Deployment**  
-- 📫 Reach me at: **kunalmeshram.tech@gmail.com**  
-- ⚡ Fun fact: I love automating tasks with AI tools and making intuitive UIs using Streamlit  
+- 🔭 Currently working on **ML + Generative AI Projects**
+- 🌱 Exploring **LangChain, Vector Databases (ChromaDB, FAISS), and RAG Pipelines**
+- 💡 I build tools with **Python, Streamlit, Gemini API, Ollama, and LangChain**
+- 👨‍💻 My repositories are here: [github.com/kunal370](https://github.com/kunal370)
+- 📫 Reach me at: **kunalmeshram.tech@gmail.com**
+- ⚡ Fun fact: I enjoy building local AI tools and interactive UIs with Streamlit
 
 ---
 
@@ -24,26 +24,28 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-6E6E6E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gemini%20API-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-6E6E6E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20DBs-ChromaDB%20%7C%20FAISS-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 🔥 Projects Showcase
+### 🔥 Featured Projects
 
-Here are a few things I’ve been working on:
+- 🧠 [**sana.ai**](https://github.com/kunal370/sana.ai) – Local AI-powered Python code reviewer using Streamlit + Ollama + Mistral
+- 💬 [**LangChain RAG ChatApp**](https://github.com/kunal370/langchain-rag) – RAG-based Chat App using LangChain and local docs
+- 📊 [**AutoEDA Dashboard**](https://github.com/kunal370/AutoEDA) – One-click EDA tool using Streamlit
+- 🤖 [**Gemini Chatbot**](https://github.com/kunal370/gemini-chatbot) – Gemini API chatbot with regex & NLP support
+- 📈 [**ML Dashboards**](https://github.com/kunal370/whitecode2.0) – End-to-end ML app with auto insights
 
-- 🧠 [sana.ai](https://github.com/kunal370/sana.ai) - Local AI tool for Python code review & bug detection using Streamlit + Ollama
-- 💬 [ChatApp Langchain RAG](https://github.com/kunal370/langchain-rag) - A chat app using LangChain with Retrieval-Augmented Generation
-- 📊 [EDA Auto Dashboard](https://github.com/kunal370/AutoEDA) - One-click auto EDA dashboard using Streamlit
-- 🤖 [Gemini ChatBot](https://github.com/kunal370/gemini-chatbot) - Gemini API integration with RE & NLP
-- 🌐 [All Repos](https://github.com/kunal370?tab=repositories) – More projects here!
+➡️ Explore more at: [github.com/kunal370?tab=repositories](https://github.com/kunal370?tab=repositories)
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kunal370&show_icons=true&theme=tokyonight" />
@@ -52,10 +54,10 @@ Here are a few things I’ve been working on:
 
 ---
 
-### 🤝 Let's Connect
+### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kunal370" target="_blank">
+  <a href="https://www.linkedin.com/in/kunal-meshram-b472b71a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kunalmeshram.tech@gmail.com" target="_blank">
@@ -63,60 +65,4 @@ Here are a few things I’ve been working on:
   </a>
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Kunal Meshram</h1>
-<h3 align="center">Software Engineer | Python & ML Enthusiast | Exploring GenAI</h3>
-
 ---
-
-- 🔭 I’m currently working on **ML & Generative AI Projects**
-- 🌱 Learning advanced concepts in **LangChain, RAG, and Vector DBs**
-- 💬 Ask me about **Python, SQL, NLP, Streamlit, Gemini API, Ollama**
-- 🚀 Projects include **bug-fix agents, AI dashboards, and local AI assistants**
-- 📫 Reach me at: **kunalmeshram370@gmail.com**
-
----
-
-### 🚀 Projects Showcase
-Here are a few cool things I’ve built:
-
-- 🛠️ [**sana.ai**](https://github.com/kunal370/sana.ai) — Local AI code reviewer using Streamlit + Ollama + Mistral
-- 🧠 [**GenAI with Gemini API**](https://github.com/kunal370/gemini-api) — Gemini integration with NLP, RAG, LangChain
-- 📊 [**ML Dashboards**](https://github.com/kunal370/whitecode2.0) — End-to-end data apps powered by Streamlit
-
----
-
-### 🧰 Tech Stack
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-
-**Frameworks & Tools**  
-![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
-![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat)
-![Ollama](https://img.shields.io/badge/-Ollama-333333?style=flat)
-![Gemini API](https://img.shields.io/badge/-GeminiAPI-333333?style=flat)
-![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
-
-**Currently Exploring**  
-- 🧠 RAG (Retrieval Augmented Generation)  
-- 📚 Vector DBs like ChromaDB  
-- 🤖 Local LLMs with Ollama  
-
----
-
-### 📈 GitHub Stats
-
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunal370&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal370&layout=compact&theme=radical)
-
----
-
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunalmeshram/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kunalmeshram370@gmail.com)
-
----
-
