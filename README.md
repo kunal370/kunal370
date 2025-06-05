@@ -11,11 +11,11 @@
 
 ### 🧠 About Me
 
-I'm a developer passionate about building intelligent systems using Python, Machine Learning, and Generative AI. I focus on solving real-world problems by combining traditional ML techniques with modern GenAI tools like LangChain, RAG, TF-IDF, and embeddings.
+I'm an AI developer focused on building intelligent tools that help developers code better and faster. My work combines code understanding, language modeling, and local AI deployment to create efficient, offline-first solutions.
 
-- 🔍 Focus: Code Intelligence, NLP, Recommender Systems, Offline AI Tools  
-- ⚙️ Stack: Python, ML, Streamlit, LangChain, Ollama, TF-IDF, Embeddings  
-- 🎯 Goal: Deliver fast, functional, and local-first AI-powered applications
+- 🔍 Focus: AI Code Assistants, Prompt Engineering, Recommender Systems  
+- ⚙️ Stack: Python, ML, Streamlit, LangChain, Ollama, TF-IDF, Embeddings, RAG  
+- 🎯 Goal: Deliver practical, privacy-friendly AI tools that improve development workflows
 
 ---
 
@@ -35,9 +35,8 @@ I'm a developer passionate about building intelligent systems using Python, Mach
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kunal370&show_icons=true&theme=default" width="47%" />
-
-
-  
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal370&theme=default" width="47%" />
 </p>
 
@@ -46,10 +45,8 @@ I'm a developer passionate about building intelligent systems using Python, Mach
 ### 🧰 Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00599C?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-4B8BBE?style=for-the-badge)
-![TF-IDF](https://img.shields.io/badge/TF--IDF-F7941D?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-8E44AD?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-222222?style=for-the-badge)
 
