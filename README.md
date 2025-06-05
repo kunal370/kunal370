@@ -1,3 +1,49 @@
+<h1 align="center">Hi there, I'm Kunal Meshram 👋</h1>
+<p align="center">
+  <em>Software Engineer | Python & ML Enthusiast | Exploring Generative AI</em>
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🧠 Passionate about **AI**, **Machine Learning**, and **Generative AI**
+- ⚙️ Tools I work with: `Python`, `SQL`, `Streamlit`, `Langchain`, `Gemini API`, `Ollama`, `RAG`, `NLP`, `Embeddings`
+- 🚀 Currently building: AI-powered tools using **Gemini** + **LangChain**
+- 💡 Always learning something new – recently exploring **Vector Databases** & **LLM Agents**
+
+---
+
+### 📌 Projects Showcase
+Here are a few projects I'm proud of:
+- **[sana.ai](https://github.com/kunal370/sana.ai)** – Local AI-powered code review tool built with Streamlit + Mistral via Ollama.
+- **Gemini Code Assistant** – Python + Gemini API-powered chatbot for intelligent code suggestions.
+- **LangChain RAG Demo** – Proof-of-concept app using Retrieval-Augmented Generation and local PDFs.
+
+👉 *Check out more in my pinned repositories!*
+
+---
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=LangChain&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📬 Let's Connect
+- 📧 Mail me: [kunalmeshram370@gmail.com](mailto:kunalmeshram370@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/kunal-meshram-b472b71a3](https://www.linkedin.com/in/kunal-meshram-b472b71a3/)
+- 🧠 GitHub: [github.com/kunal370](https://github.com/kunal370)
+
+---
+
+<p align="center">Thanks for stopping by! ⭐️</p>
+
+
+
 # Hi there, I'm Kunal Meshram 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-meshram-b472b71a3/)
