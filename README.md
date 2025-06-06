@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kunal Meshram</h1>
-<h3 align="center">AI Developer | Python • Machine Learning • Generative AI</h3>
+<h3 align="center"> AI & ML Practitioner | Building Intelligent Applications | Python • Machine Learning • Generative AI</h3>
 
 <p align="center">
   <a href="https://github.com/kunal370">💻 GitHub</a> •
@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-I'm an AI developer focused on building intelligent tools that help developers code better and faster. My work combines code understanding, language modeling, and local AI deployment to create efficient, offline-first solutions.
+I'm a developer focused on building intelligent tools that help developers code better and faster. My work combines code understanding, language modeling, and local AI deployment to create efficient, offline-first solutions.
 
 - 🔍 Focus: AI Code Assistants, Prompt Engineering, Recommender Systems  
 - ⚙️ Stack: Python, ML, Streamlit, LangChain, Ollama, TF-IDF, Embeddings, RAG  
